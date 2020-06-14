@@ -1,0 +1,58 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.button-div{
+  display: block;
+  margin: 8%;
+  text-align: center;
+}
+
+.ele-btn{
+
+  background-color: #393E46;
+  border: solid #4ECCA3 2px;
+  color: #4ECCA3  ;
+  margin-left: 10px;
+  font-weight: 700;
+  font-size: 2.75rem;
+  font-family: 'Indie Flower', cursive;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
